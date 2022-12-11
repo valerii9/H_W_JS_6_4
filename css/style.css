@@ -1,0 +1,14 @@
+div {
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.img1 {
+    display: block;
+    width: 30%;
+}
+
+.img123 {
+    display: none;
+}
